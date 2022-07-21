@@ -1,6 +1,6 @@
-# Locality Guidance for Improving Vision Transformers on Tiny Datasets (ECCV‘2022)
+# Locality Guidance for Improving Vision Transformers on Tiny Datasets (ECCV 2022)
 
-[[arXiv paper]()] | [[ECCV paper]()]
+[[arXiv paper](https://arxiv.org/pdf/2207.10026.pdf)] [[ECCV paper]()]
 
 ![method](method.png)
 
@@ -134,12 +134,11 @@ This repository is built upon [pycls](https://github.com/facebookresearch/pycls)
 ## Citing
 
 ```
-@inproceedings{
-    li2022locality,
-    title={Locality Guidance for Improving Vision Transformers on Tiny Datasets}
-    author={Kehan Li and Runyi Yu and Zhennan Wang and Li Yuan and Guoli Song and Jie Chen}
-    year={2022}
-    booktitle={Proceedings of the 17th European Conference on Computer Vision (ECCV 2022)}
+@article{li2022locality,
+  title={Locality Guidance for Improving Vision Transformers on Tiny Datasets},
+  author={Li, Kehan and Yu, Runyi and Wang, Zhennan and Yuan, Li and Song, Guoli and Chen, Jie},
+  journal={arXiv preprint arXiv:2207.10026},
+  year={2022}
 }
 ```
 
